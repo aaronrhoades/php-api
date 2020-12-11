@@ -1,6 +1,4 @@
 <?php 
-// from: https://phpenthusiast.com/blog/develop-angular-php-app-getting-the-list-of-items
-
 // db credentials
 define('DB_HOST', 'localhost:3308'); //WAMP users can get the localhost port number through the icon tray -> MySQL icon
 define('DB_USER', 'root'); //your db user
